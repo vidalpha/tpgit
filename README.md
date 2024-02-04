@@ -6,19 +6,12 @@
 
 </pre>
 
-# Bienvenu super mon super blog!
-Laboratoire de prise en main de Git
+# Bienvenu sur mon super blog!
 
-Ce laboratoire ouvre plusieurs perspective à savoir:
+## Mes tutoriels
 
-* L'envoi des modifications sur un site distant
-* La manipulation des historique des commits
-
-
-[Pour tout autre préoccupation mon IA reste disponible](https://chat.openai.com){:target="_blank"}
-
-A bientôt 🥳
-
+1. Intégrer des graphes avec mermaid
+2. Mettre en place la documentation d'un projet avec mkdocs
 
 > [!NOTE]
 > C'est un projet démo pour la création d'un blog personnel que je voudrais partager avec la communauté github.
@@ -26,6 +19,13 @@ A bientôt 🥳
 ## Contributeurs
 
 - Moi et moi seul 🤓
+
+[Pour tout autre préoccupation mon IA reste disponible](https://chat.openai.com)
+
+A bientôt 🥳
+
+
+## Copyright
 
 
 © < Mon entreprise > Unamur, 2024
