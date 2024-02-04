@@ -10,7 +10,7 @@
 
 ## Mes tutoriels
 
-1. Intégrer des graphes avec mermaid
+1. [Intégrer des graphes avec mermaid](./mermaid)
 2. Mettre en place la documentation d'un projet avec mkdocs
 
 > [!NOTE]
