@@ -27,5 +27,7 @@ A bientôt 🥳
 
 - Moi et moi seul 🤓
 
+![Image](https://example.com/image.png){:width="150px" :height="150px"}
+
 
 © < Mon entreprise > Unamur, 2024
