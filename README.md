@@ -10,7 +10,7 @@
 
 ## Mes tutoriels
 
-1. [Intégrer des graphes avec mermaid](./mermaid)
+1. [Intégrer des graphes avec mermaid](./mermaid.md)
 2. Mettre en place la documentation d'un projet avec mkdocs
 
 > [!NOTE]
@@ -20,9 +20,7 @@
 
 - Moi et moi seul 🤓
 
-![Image](https://example.com/image.png){:width="150px" :height="150px"}
-
-[Pour tout autre préoccupation mon IA reste disponible](https://chat.openai.com)
+![Logo](./UNamur.png){:width="150px" :height="150px"}
 
 A bientôt 🥳
 
